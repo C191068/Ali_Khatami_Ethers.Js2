@@ -18,4 +18,6 @@ Figure4: when we write this command ```code akrkethers-simple-storage/``` a new 
 Figure5: it is shown in the figure above <br>
 
 
+![e39](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/2462b838-1f3e-4530-b620-f4fffe6c5450)
+ Figure6: to crate file we type the the above command, error will come but file will be created
 
