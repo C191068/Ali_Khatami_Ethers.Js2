@@ -32,6 +32,10 @@ The syntax of backend javascript, frontend javacript and node.js are different <
 
 ```Typescript``` is known as a statically typed version of javascript <br>
 
+```Typescript``` actually catches bug early on making it a lot easier to code our projects in the long run <br>
+
+
+
 
 
 
