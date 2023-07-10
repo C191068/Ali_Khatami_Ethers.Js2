@@ -28,6 +28,10 @@ Node.js allow us to run javascript code at backend opposed to running javascript
 
 Javascript is made to be a browser run language like running inside of Chrome, firefox, brave etc <br>
 
+The syntax of backend javascript, frontend javacript and node.js are different <br>
+
+
+
 
 
 
