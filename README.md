@@ -30,6 +30,10 @@ Javascript is made to be a browser run language like running inside of Chrome, f
 
 The syntax of backend javascript, frontend javacript and node.js are different <br>
 
+```Typescript``` is known as a statically typed version of javascript <br>
+
+
+
 
 
 
