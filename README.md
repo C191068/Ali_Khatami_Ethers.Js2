@@ -4,3 +4,12 @@ Figure1: This is the git and node.js version that I am using<br>
 
 Here we gonna learn how to deploy and interact with contract using ethers.js package 
 
+
+![e35](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/0c4f1d7a-f531-4b0f-9c28-91ced0ea18fb)
+Figure2: here we create a new folder using the command ```mkdir``` <br>
+
+![e36](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/0eb3f49c-9a8e-4f56-aac8-ed74fda2abae)
+Figure3: then it is created <br>
+
+
+
