@@ -24,5 +24,8 @@ Figure5: it is shown in the figure above <br>
 
 Javascript and node.js are slightly different <br>
 
-Node.js allow us to run javascript code at backend
+Node.js allow us to run javascript code at backend opposed to running javascript code at frontend <br>
+
+
+
 
