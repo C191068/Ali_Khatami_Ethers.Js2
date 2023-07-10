@@ -34,6 +34,10 @@ The syntax of backend javascript, frontend javacript and node.js are different <
 
 ```Typescript``` actually catches bug early on making it a lot easier to code our projects in the long run <br>
 
+![e40](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/a480edef-de80-4af8-9c2c-062ed22c03a4)
+
+
+Figure7: We create a new solidity file known as ```akrkSimplestorage.sol```
 
 
 
