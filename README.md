@@ -105,6 +105,11 @@ Figure22: When we save the code it will be formated like the above <br>
 ![e57](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/f7640552-8840-400a-9d87-8284e44a29e3)
 Figure23: we will click ```Ctrl+Shift+P``` and click the above markdown option <br>
 
+![e58](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/6be610be-ca62-425f-936d-2094fe64b4aa)
+
+Figure24: here at Editor: Default Formatter option we will select the above highlighted option as a default formatter<br>
+for all languages <br>
+
 
 
 
