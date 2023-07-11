@@ -102,6 +102,9 @@ Figure21: We have made the above changes in our Javascript code <br>
 ![e56](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/b7033437-3232-4d9f-9649-7a70e84a85fd)
 Figure22: When we save the code it will be formated like the above <br>
 
+![e57](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/f7640552-8840-400a-9d87-8284e44a29e3)
+Figure23: we will click ```Ctrl+Shift+P``` and click the above markdown option <br>
+
 
 
 
