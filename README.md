@@ -70,27 +70,27 @@ Figure14: Then we write the above marked code in it <br>
 
 ![e46](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/07599e17-bdfb-4fe5-bf4b-b16d7e2edcff)
 
-Figure13: Here we now click ```Ctrl+Shift+P``` then on the small pop up window we will click the marked option to change settings<br>
+Figure15: Here we now click ```Ctrl+Shift+P``` then on the small pop up window we will click the marked option to change settings<br>
 
 ![e47](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/0e4d6d1b-0257-48d3-9d0e-d8f6cc4d5dc3)
 
- Figure14: here on we marked option ```Format on save``` we checked mark it <br>
+ Figure16: here on we marked option ```Format on save``` we checked mark it <br>
  This means every time we save VS code gonna format our code for us <br>
 
  
 ![e48](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/13d4f8dc-b466-443e-a5c2-1c206ccd8a8c)
 
-Figure15: here after struct individuals we have given space but we didn't save it <br>
+Figure17: here after struct individuals we have given space but we didn't save it <br>
 
 ![e49](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/a45870e6-4cf4-4a1b-ace6-792fed1cdb51)
 
 Figure16: but after saving it the space removed automatically <br>
 
 ![e50](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/83147533-4440-44e5-91da-185eb22120b2)
-Figure17: here we a created a .js file known as ```akrkdeploy.js``` and write the above code in it <br>
+Figure18: here we a created a .js file known as ```akrkdeploy.js``` and write the above code in it <br>
 
 ![e51](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/74d9a75c-d3d6-4cc3-a07a-1686a875c6ca)
-Figure18: Here we install Prettier , it is acode formator that works for many languages like <br>
+Figure19: Here we install Prettier , it is acode formator that works for many languages like <br>
 Python, Javascript and Solidity <br>
 
 
