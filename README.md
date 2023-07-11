@@ -79,6 +79,9 @@ Figure15: here after struct individuals we have given space but we didn't save i
 
 Figure16: but after saving it the space removed automatically <br>
 
+![e50](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/83147533-4440-44e5-91da-185eb22120b2)
+Figure17: here we a created a .js file known as ```akrkdeploy.js``` and write the above code in it <br>
+
 
 
 
