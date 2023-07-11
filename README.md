@@ -41,6 +41,10 @@ Figure7: We create a new solidity file known as ```akrkSimplestorage.sol```
 
 Taking the code from   https://github.com/C191068/Ali_Khatami_S0olidity_3 
 
+![e41](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/d661816c-a81d-4317-9b67-08c7691ecef6)
+Figure8: we paste the code here above <br>
+
+
 
 
 
