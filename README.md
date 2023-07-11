@@ -65,6 +65,10 @@ making it easier to read <br>
 
 Figure13: Here we now click ```Ctrl+Shift+P``` then on the small pop up window we will click the marked option to change settings<br>
 
+![e47](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/acb2aaa8-ef1a-4165-b7d6-f8b16318717e)
+
+Figure14: In the setting part we have use the above code because at any time we go to format our code <br>
+it will use the hardhat solidiy plugin as it's default format <br>
 
 
 
