@@ -70,6 +70,7 @@ Figure13: Here we now click ```Ctrl+Shift+P``` then on the small pop up window w
 Figure14: In the setting part we have use the above code because at any time we go to format our code <br>
 it will use the hardhat solidiy plugin as it's default format <br>
 
+Hardhat solidity plug in comes with formatting and lot of other useful tool for us <br>
 
 
 
