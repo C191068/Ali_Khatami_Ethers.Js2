@@ -61,6 +61,13 @@ Figure11: We have to install this ```Solidity + Hardhat extension``` at first <b
 Figure12: after that we can see that the syntax of code of our ```akrkSimplestorage.sol``` is highlighting <br>
 making it easier to read <br>
 
+![e46](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/42aebec7-4679-424c-99ab-6b6ea0ed68bc)
+
+Figure13: Here we now click ```Ctrl+Shift+P``` then on the small pop up window we will click the marked option to change settings<br>
+
+
+
+
 
 
 
