@@ -71,6 +71,14 @@ Figure13: Here we now click ```Ctrl+Shift+P``` then on the small pop up window w
  This means every time we save VS code gonna format our code for us <br>
 
  
+![e48](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/13d4f8dc-b466-443e-a5c2-1c206ccd8a8c)
+
+Figure15: here after struct individuals we have given space but we didn't save it <br>
+
+![e49](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/a45870e6-4cf4-4a1b-ace6-792fed1cdb51)
+
+Figure16: but after saving it the space removed automatically <br>
+
 
 
 
