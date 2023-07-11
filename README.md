@@ -52,6 +52,10 @@ Figure9: when such white circle appears it means that the file is not saved
 
 Figure10: Going to the ```File``` and click ```save``` and it will be saved or ```Ctrl+S```
 
+![e44](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/ae50235a-0dd7-4c90-84a2-efb1fdb9dc70)
+
+Figure11: We have to install this ```Solidity + Hardhat extension``` at first <br>
+
 
 
 
