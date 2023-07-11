@@ -82,6 +82,10 @@ Figure16: but after saving it the space removed automatically <br>
 ![e50](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/83147533-4440-44e5-91da-185eb22120b2)
 Figure17: here we a created a .js file known as ```akrkdeploy.js``` and write the above code in it <br>
 
+![e51](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/74d9a75c-d3d6-4cc3-a07a-1686a875c6ca)
+Figure18: Here we install Prettier , it is acode formator that works for many languages like <br>
+Python, Javascript and Solidity <br>
+
 
 
 
