@@ -56,6 +56,10 @@ Figure10: Going to the ```File``` and click ```save``` and it will be saved or `
 
 Figure11: We have to install this ```Solidity + Hardhat extension``` at first <br>
 
+![e45](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/7f9f17f4-5738-4fcf-94d6-60f9ede22f29)
+
+Figure12: after that we can see the code of our ```akrkSimplestorage.sol``` is highlighting <br>
+
 
 
 
