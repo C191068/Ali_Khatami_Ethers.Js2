@@ -93,6 +93,9 @@ Figure18: here we a created a .js file known as ```akrkdeploy.js``` and write th
 Figure19: Here we install Prettier , it is acode formator that works for many languages like <br>
 Python, Javascript and Solidity <br>
 
+![e54](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/db99831b-a59f-4ae3-bc5f-22cb128712a5)
+Figure20: we have write athe above code for java script code formatting <br>
+
 
 
 
