@@ -39,7 +39,7 @@ The syntax of backend javascript, frontend javacript and node.js are different <
 
 Figure7: We create a new solidity file known as ```akrkSimplestorage.sol```
 
-
+Taking the code from   https://github.com/C191068/Ali_Khatami_S0olidity_3 
 
 
 
