@@ -96,6 +96,12 @@ Python, Javascript and Solidity <br>
 ![e54](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/db99831b-a59f-4ae3-bc5f-22cb128712a5)
 Figure20: we have write athe above code for java script code formatting <br>
 
+![e55](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/64d53142-6148-4ffe-9f3e-62946f168db9)
+Figure21: We have made the above changes in our Javascript code <br>
+
+![e56](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/b7033437-3232-4d9f-9649-7a70e84a85fd)
+Figure22: When we save the code it will be formated like the above <br>
+
 
 
 
