@@ -48,6 +48,11 @@ Figure8: we paste the code here above <br>
 
 Figure9: when such white circle appears it means that the file is not saved 
 
+![e43](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/d08740fd-0c4d-4511-8c4a-619fb7ae8d3b)
+
+Figure10: Going to the ```File``` and click ```save``` and it will be saved <br>
+
+
 
 
 
