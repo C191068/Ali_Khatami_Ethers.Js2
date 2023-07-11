@@ -61,16 +61,16 @@ Figure11: We have to install this ```Solidity + Hardhat extension``` at first <b
 Figure12: after that we can see that the syntax of code of our ```akrkSimplestorage.sol``` is highlighting <br>
 making it easier to read <br>
 
-![e46](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/42aebec7-4679-424c-99ab-6b6ea0ed68bc)
+![e46](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/07599e17-bdfb-4fe5-bf4b-b16d7e2edcff)
 
 Figure13: Here we now click ```Ctrl+Shift+P``` then on the small pop up window we will click the marked option to change settings<br>
 
-![e47](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/acb2aaa8-ef1a-4165-b7d6-f8b16318717e)
+![e47](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/0e4d6d1b-0257-48d3-9d0e-d8f6cc4d5dc3)
 
-Figure14: In the setting part we have use the above code because at any time we go to format our code <br>
-it will use the hardhat solidiy plugin as it's default format <br>
+ Figure14: here on we marked option ```Format on save``` we checked mark it <br>
+ This means every time we save VS code gonna format our code for us <br>
 
-Hardhat solidity plug in comes with formatting and lot of other useful tool for us for writing our code <br>
+ 
 
 
 
