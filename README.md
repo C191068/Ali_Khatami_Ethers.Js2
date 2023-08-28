@@ -111,6 +111,9 @@ Figure24: here at Editor: Default Formatter option we will select the above high
 for all languages <br>
 
 
+![m28](https://github.com/C191068/Ali_Khatami_Ethers.Js2/assets/89090776/d9cefb8f-68c1-4790-9989-fc17fe7a6717)
+
+```Ctrl+Shift+P``` and then select the above option <br>
 
 
 
